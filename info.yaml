@@ -1,9 +1,9 @@
 # Tiny Tapeout project information
 project:
-  title:        ""      # Project title
-  author:       ""      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
-  description:  ""      # One line description of what your project does
+  title:        "Simple 8-bit Counter"      # Project title
+  author:       "ConsciousMachines"      # Your name
+  discord:      "Chantecleer#0035"      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  description:  "An 8-bit counter that increments on each clock when enabled"      # One line description of what your project does
   language:     "Verilog" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     10000000       # Clock frequency in Hz (or 0 if not applicable)
 
